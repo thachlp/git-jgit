@@ -1,0 +1,18 @@
+repo_name: thachlp/git-jgit
+report_id: 6afcf7dae1008e43625c0adc40972c3a
+repo_type: Public
+timestamp: '2023-11-10T03:13:21+00:00'
+requested_by: thachlp
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
